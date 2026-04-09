@@ -12,45 +12,45 @@ IT Support Specialist
 Help Desk Technician
 Service Desk Analyst
 Support Engineer (Tier 1)
-📍 Hidalog, Texas | 📧 isidro_ibarra_ii@outlook.com | 🔗 GitHub | 🔗 Projects
+📍 Hidalgo, Texas | 📧 isidro_ibarra_ii@outlook.com | 🔗 GitHub | [🔗](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects) Projects
 
 ## 📁 Project Portfolio
 ### 🔵 Foundations & Strategy
 | Sprint	| Project | Key Skills |
 | --- | --- | --- |
-| Sprint 01	| Career Self-Assessment & Introduction |	Career planning, cybersecurity landscape, professional communication |
-| Sprint 03	| RCI Cybersecurity Analysis — 0x2A Security	| Root cause investigation, security advisory, risk prioritization |
-| Sprint 04	| Xibalba Interactive Threat Model	| MITRE ATT&CK mapping, adversary profiling, honeypot strategy | 
-| Sprint 05	| Incident Response Plan — Capybara Unlimited	| IRP development, NIST SP 800-61, playbook writing |
-| Sprint 06	| Network Modernization Proposal — Yagé Botanicals	| Network architecture, VLAN segmentation, DMZ design, NGFW |
+| [Sprint 01](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%201%5D%20Career%20Self-Assessment%20%26%20Introduction%20%7BIsidro%20Ibarra%7D)	| Career Self-Assessment & Introduction |	Career planning, cybersecurity landscape, professional communication |
+| [Sprint 03](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%203%5D%20RCI%20Analysis%20%7BIsidro%20Ibarra%7D)	| RCI Cybersecurity Analysis — 0x2A Security	| Root cause investigation, security advisory, risk prioritization |
+| [Sprint 04](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%204%5D%20Xibalba%20Interactive%20Threat%20Model%20%7BIsidro%20Ibarra%7D)	| Xibalba Interactive Threat Model	| MITRE ATT&CK mapping, adversary profiling, honeypot strategy | 
+| [Sprint 05](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%205%5D%20Incident%20Response%20Plan%20%5BCapybara%20Unlimited%5D%20%7BIsidro%20Ibarra%7D)	| Incident Response Plan — Capybara Unlimited	| IRP development, NIST SP 800-61, playbook writing |
+| [Sprint 06](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%206%5D%20Yag%C3%A9%20Botanicals%20Network%20Modernization%20Proposal%20%7BIsidro%20Ibarra%7D)	| Network Modernization Proposal — Yagé Botanicals	| Network architecture, VLAN segmentation, DMZ design, NGFW |
 ### 🔴 Offensive Security — MegaQuagga Assessment Series
 A multi-sprint end-to-end security engagement performed on behalf of 0x2A Security against the simulated MegaQuagga corporate network — covering the full offensive lifecycle from reconnaissance through exploitation and remediation.
 
 | Sprint	| Project | Key Skills |
 | --- | --- | --- |
-| Sprint 02 |	Network Scanning & Enumeration |	Nmap, host discovery, service fingerprinting, network topology mapping |
-| Sprint 08	| Vulnerability Assessment | CVE analysis, CVSS scoring, VA reporting, patch management advisory |
-| Sprint 09	| Penetration Test |	Active exploitation, MITRE ATT&CK TTP mapping, pentest reporting |
-| Sprint 10	| Remediation Report |	Vulnerability lifecycle management, remediation prioritization, security advisory |
+| [Sprint 02](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%202%5D%20-%20MegaQuagga%20Project%20%7BIsidro%20Ibarra%7D) |	Network Scanning & Enumeration |	Nmap, host discovery, service fingerprinting, network topology mapping |
+| [Sprint 08](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%208%5D%20MegaQuagga%20VA%20%7BIsidro%20Ibarra%7D)	| Vulnerability Assessment | CVE analysis, CVSS scoring, VA reporting, patch management advisory |
+| [Sprint 09](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%209%5D%20MegaQuagga%20Pentesting%20Report%20%7BIsidro%20Ibarra%7D)	| Penetration Test |	Active exploitation, MITRE ATT&CK TTP mapping, pentest reporting |
+| [Sprint 10](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%2010%5D%20Remediation%20Report%20%7BIsidro%20Ibarra%7D)	| Remediation Report |	Vulnerability lifecycle management, remediation prioritization, security advisory |
 ### 🟡 Defensive Security & Detection Engineering
 | Sprint	| Project | Key Skills |
 | --- | --- | --- |
-| Sprint 11	| SIEM Deployment & Purple Team Testing |	Wazuh, Atomic Red Team, MITRE ATT&CK, detection gap analysis |
+| [Sprint 11](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%2011%5D%20SIEM%20Deployment%20%26%20Purple%20Team%20Testing)	| SIEM Deployment & Purple Team Testing |	Wazuh, Atomic Red Team, MITRE ATT&CK, detection gap analysis |
 ### 🟠 Incident Response — 0x2A Security IR Series
 A series of real-world IR triage investigations, each requiring SIEM log correlation, PCAP analysis, and formal triage report delivery.
 
 | Sprint |	Project |	Incident Type |	Key Skills |
 | --- | --- | --- | --- |
-| Sprint 12 |	IR Triage — WordPress Brute Force	| Credential brute force (Hydra)	| PCAP analysis, Wazuh, ModSecurity, IR reporting |
-| Sprint 13	| IR Triage — Brute Force & Ransomware	| Cerber ransomware deployment	| Multi-stage attack reconstruction, Splunk, MITRE ATT&CK |
+| [Sprint 12](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%2012%5D%20IR%20Triage%20%E2%80%94%20WordPress%20Brute%20Force%20%7BIsidro%20Ibarra%7D) |	IR Triage — WordPress Brute Force	| Credential brute force (Hydra)	| PCAP analysis, Wazuh, ModSecurity, IR reporting |
+| [Sprint 13](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%2013%5D%20IR%20Triage%20%E2%80%94%20Brute%20Force%20%26%20Ransomware%20%7BIsidro%20Ibarra%7D)	| IR Triage — Brute Force & Ransomware	| Cerber ransomware deployment	| Multi-stage attack reconstruction, Splunk, MITRE ATT&CK |
 ### 🟣 Advanced Threat Hunting
 | Sprint	| Project | Key Skills |
 | --- | --- | --- |
-| Sprint 14 |	APT Investigation — Multi-Domain Threat Hunting |	Splunk SPL, AWS CloudTrail, Sysmon, Osquery, O365, cryptomining detection, C2 identification, phishing investigation, privilege escalation |
+| [Sprint 14](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%2014%5D%20APT%20Investigation%20%E2%80%94%20Multi-Domain%20Threat%20Hunting%20%7BIsidro%20Ibarra%7D) |	APT Investigation — Multi-Domain Threat Hunting |	Splunk SPL, AWS CloudTrail, Sysmon, Osquery, O365, cryptomining detection, C2 identification, phishing investigation, privilege escalation |
 ## 🏆 Certification
 | Sprint |	Project	Details |
 | --- | --- |
-| Sprint 15 |	CompTIA Security+ |	Vendor-neutral, DoD 8570 compliant, covers all core security domains |
+| [Sprint 15](https://github.com/iibarr30/Isidro_Ibarra_Portfolio/tree/main/Isidro%20Ibarra%20TripleTen%20Projects/%5BSprint%2015%5D%20Security%2B%20Certification%20%7BIsidro%20Ibarra%7D) |	CompTIA Security+ |	Vendor-neutral, DoD 8570 compliant, covers all core security domains |
 ## 🛠️ Tools & Technologies
 | Category	| Tools |
 | --- | --- |
